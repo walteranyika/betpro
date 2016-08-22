@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_bar_from"
+        android:orderInCategory="100"
+        android:title="From"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_bar_to"
+        android:orderInCategory="100"
+        android:title="To"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_bar_graph"
+        android:orderInCategory="100"
+        android:title="@string/bar_graph"
+        android:icon="@mipmap/ic_bar_image"
+        app:showAsAction="always" />
+
+
+</menu>

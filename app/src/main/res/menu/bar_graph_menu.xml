@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_bar_graph_from"
+        android:orderInCategory="100"
+        android:title="From"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_bar_graph_to"
+        android:orderInCategory="100"
+        android:title="To"
+        app:showAsAction="always" />
+
+</menu>
